@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/erathriel/Desktop/fac/TL_project/src/fa.c
+stddef.h
+-
+stdlib.h
+-
+stdio.h
+-
+fa.h
+/home/erathriel/Desktop/fac/TL_project/src/fa.h
+
+/home/erathriel/Desktop/fac/TL_project/src/fa.h
+stddef.h
+-
+stdbool.h
+-
+stdlib.h
+-
+stdio.h
+-
+
+/home/erathriel/Desktop/fac/TL_project/src/testfa.c
+stdio.h
+-
+stdlib.h
+-
+fa.h
+/home/erathriel/Desktop/fac/TL_project/src/fa.h
+

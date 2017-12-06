@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/TL_project.dir/src/fa.c.o CMakeFiles/TL_project.dir/src/testfa.c.o  -o TL_project 
