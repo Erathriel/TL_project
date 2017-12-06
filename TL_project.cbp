@@ -84,10 +84,10 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/erathriel/Desktop/fac/TL_project/src/fa.c">
+		<Unit filename="/home/erathriel/Desktop/fac/TL_project/include/fa.h">
 			<Option target="TL_project"/>
 		</Unit>
-		<Unit filename="/home/erathriel/Desktop/fac/TL_project/src/fa.h">
+		<Unit filename="/home/erathriel/Desktop/fac/TL_project/src/fa.c">
 			<Option target="TL_project"/>
 		</Unit>
 		<Unit filename="/home/erathriel/Desktop/fac/TL_project/src/testfa.c">

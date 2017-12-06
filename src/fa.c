@@ -1,7 +1,7 @@
 #include <stddef.h>
 #include <stdlib.h>
 #include <stdio.h>
-#include "fa.h"
+#include "../include/fa.h"
 
 //
 // Created by Antoine and Geoffrey on 15/09/2017.

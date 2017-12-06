@@ -7,5 +7,5 @@ set(CMAKE_CXX_STANDARD 11)
 
 add_executable(TL_project
         src/fa.c
-        src/fa.h
+        include/fa.h
         src/testfa.c)
