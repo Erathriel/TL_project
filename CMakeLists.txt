@@ -3,6 +3,8 @@ project(TL_project)
 
 set(CMAKE_CXX_STANDARD 11)
 
+include_directories(${googletest-release-1.8.0/googletest}/include ${googletest-release-1.8.0/googletest})
+
 add_executable(TL_project
         src/fa.c
         src/fa.h
